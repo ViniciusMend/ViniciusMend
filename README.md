@@ -12,5 +12,5 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusMend&theme=light&hide_langs_below=1" />
 </a>
 <a href="https://github.com/ViniciusMend">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=ViniciusMend&show_icons=true&theme=light&line_height=27" alt="Vinicius Mendonça Github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=ViniciusMend&show_icons=true&theme=light&layout=compact" alt="Vinicius Mendonça Github stats"/>
 </a>
