@@ -1,16 +1,12 @@
-<h1 align="center">Hi there. I am Vinicius Henrique!!</h1>
-  <p align="center">
-      <a href="https://br.linkedin.com/in/vinicius-henrique-engproducao">
-        <img align="center" alt="Smit's Linkdeln" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg"/>
-      </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      <a href="https://www.instagram.com/vini_henr/">
-        <img align="center" alt="Smit's Instagram" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" />
-      </a>
- 	</p>
-
-<a href="https://github.com/ViniciusMend">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusMend&theme=light&hide_langs_below=1" />
-</a>
-<a href="https://github.com/ViniciusMend">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=ViniciusMend&show_icons=true&theme=light&layout=compact" alt="Vinicius Mendonça Github stats"/>
-</a>
+### Hi there, I am Vinicius Henrique.
+<div>
+  <a href="https://www.instagram.com/vini_henr/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:viniciushenrique9510@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/vinicius-henrique-engproducao" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
+<div>
+  <a href="[https://github.com/Marcoslsl](https://github.com/ViniciusMend)">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusMend&layout=compact&langs_count=7&theme=tokyonight"/>
+  <a href="[https://github.com/Marcoslsl](https://github.com/ViniciusMend)">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ViniciusMend&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
