@@ -1,6 +1,4 @@
 <h1 align="center">Hi there. I am Vinicius Henrique!!</h1>
-
-<h4 align="left">Get in touch: </h3>
   <p align="center">
       <a href="https://br.linkedin.com/in/vinicius-henrique-engproducao">
         <img align="center" alt="Smit's Linkdeln" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg"/>
