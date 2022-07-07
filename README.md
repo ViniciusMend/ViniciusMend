@@ -5,8 +5,8 @@
   <a href="https://www.linkedin.com/in/vinicius-henrique-engproducao" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 <div>
-  <a href="[https://github.com/Marcoslsl](https://github.com/ViniciusMend)">
+  <a href="[https://github.com/ViniciusMend](https://github.com/ViniciusMend)">
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusMend&layout=compact&langs_count=7&theme=tokyonight"/>
-  <a href="[https://github.com/Marcoslsl](https://github.com/ViniciusMend)">
+  <a href="[https://github.com/ViniciusMend](https://github.com/ViniciusMend)">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ViniciusMend&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
